@@ -5,4 +5,4 @@
 
 The dev task simply stores the file in memory and makes it available at localhost:4040
 
-It's ready and configured to start your *FrontEnd* proyect with **Webpack / Sass / JSX**.
+It's ready and configured to start your *FrontEnd* proyect with **Webpack / Sass / ReactJs**.
