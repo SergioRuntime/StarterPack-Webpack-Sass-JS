@@ -5,7 +5,7 @@
 
 You can now use `npm run dev` to have the devServer up and running which you can visit in your browser at `localhost:4040`
 
-It's ready and configured to start your *FrontEnd* proyect with **Webpack / Sass / ReactJs**.
+It's ready and configured to start your *FrontEnd* project with **Webpack / Sass / ReactJs**.
 
 ## Versions:
 - Webpack: 2.24.4
