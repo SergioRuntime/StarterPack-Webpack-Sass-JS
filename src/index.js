@@ -3,7 +3,9 @@ import ReactDOM from "react-dom";
 import "./styles.scss";
 
 function App() {
-  return <h1>Hello from REACT</h1>;
+  return (
+  <></>
+  );
 }
 
 const container = document.getElementById("root");
