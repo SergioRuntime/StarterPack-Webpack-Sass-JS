@@ -4,7 +4,7 @@ import "./styles.scss";
 
 function App() {
   return (
-  <></>
+  <>Hello Word</>
   );
 }
 
